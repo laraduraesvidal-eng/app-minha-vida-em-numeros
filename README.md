@@ -1,7 +1,7 @@
 #  Edição Este é um projeto de aplicativo mobile desenvolvido como parte da disciplina de Programação Mobile, do curso técnico de Desenvolvimento de Sistemas, lecionada pelo Professor Artur Scolari. O objetivo é criar um diário pessoal para registrar e acompanhar métricas diárias, com dados salvos de forma persistente.
 
 ## Sobre o Projeto 📝
-O "Edição" é um aplicativo para acompanhamento de saúde e bem-estar. Ele permite que o usuário registre diariamente a quantidade de horas de edião, os minutos de video e as horas de sono. O app também oferece funcionalidades de ordenação dos registros e visualização gráfica da evolução.
+O "Edição" é um aplicativo para acompanhamento de saúde e bem-estar. Ele permite que o usuário registre diariamente a quantidade de horas de edição, os minutos de video e as horas de sono. O app também oferece funcionalidades de ordenação dos registros e visualização gráfica da evolução.
 
 ## Tecnologias Utilizadas 🚀
 * **React Native:** Framework para desenvolvimento de apps mobile.
